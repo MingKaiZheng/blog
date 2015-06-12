@@ -1,0 +1,5 @@
+# Î¢ÐÅÊý¾Ý¿â
+basicJdbcUrl = jdbc:mysql://localhost:3306/zmk?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+basicUser = root
+basicPassword =root
+devMode = true
